@@ -1,12 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mayamkay
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ACTCollaboration/DR4_DR5_Notebooks
