@@ -24,5 +24,3 @@ category: work
     </div>
 </div>
 
-
-{% endraw %}
