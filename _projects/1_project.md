@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Atacama Cosmology Telescope: Data Access for the Data Releases 4 and 5 
+title: The Atacama Cosmology Telescope - Data Access for the Data Releases 4 and 5 
 description: In order to facilitate ease of access to the data presented as part of these data releases, I led a project to develop a set of Jupyter IPython notebooks designed to introduce users to DR4 and DR5 and the tools needed to analyze these data. 
 img: assets/img/act_notebooks.png
 importance: 1
