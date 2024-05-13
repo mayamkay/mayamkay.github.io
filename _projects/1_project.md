@@ -5,7 +5,6 @@ description: In order to facilitate ease of access to the data presented as part
 img: assets/img/act_notebooks.png
 importance: 1
 category: work
-related_publications: None
 ---
 
 Every project has a beautiful feature showcase page.
