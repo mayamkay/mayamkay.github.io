@@ -20,4 +20,17 @@ I decided to take a look at the average restaurant reviews on Yelp for different
     Average restaurant reviews by city. Darker blues represent higher ratings and the paler yellows are lower ratings. 
 </div>
 
+Zooming in a little on Europe you might expect Paris, a city that is definitely known for its food, to have one of the highest average reviews in this region. Instead, I found that Barcelona actually seems to be home to some of the most well-reviewed restaurants in Europe.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/europe.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A closer look at Europe and the incredibly high-ranking restaurants in Barcelona. 
+</div>
+
+Maybe Parisians are just that much more reserved in their reviews? Or maybe we should all be booking a trip to Barcelona!
+
 <em> Skills: ArcGIS, BeautifulSoup </em>
