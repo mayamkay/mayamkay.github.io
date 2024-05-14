@@ -23,7 +23,7 @@ Astrophysicist with 5+ years of experience in quantitative analysis and research
 - Collaborator experienced in working with diverse groups to develop comprehensive analyses
 
 
-<h2> Education </h2>
+<h3> Education </h3>
 
 - University of Chicago, Chicago <span class="date">_expected June 2024_</span>
   - PhD, Astrophysics
@@ -34,7 +34,7 @@ Astrophysicist with 5+ years of experience in quantitative analysis and research
 
  <br>
  
-**Research and Analysis Experience** <br>
+<h3>Research and Analysis Experience</h3> <br>
 
 Argonne National Lab, Computational Physics and Cosmology Group <br>
 Graduate Researcher <span class="date">_June 2023 - Current_</span>
@@ -55,7 +55,7 @@ Graduate Researcher <span class="date">_September 2018 - September 2020_</span>
 - Used Pixell, numpy and astropy to analyze maps of the Cosmic Microwave Background
 <br>
 
-**Teaching and Outreach Experience** <br>
+<h3>Teaching and Outreach Experience</h3> <br>
 
  Atacama Cosmology Telescope Collaboration<span class="date">_April & August 2021_</span>  <br>
 _Taught two data science summer schools_
@@ -64,13 +64,13 @@ Science Communication Talks <span class="date">_October & November 2019_</span> 
 _Nerdnite Ann Arbor & Astro on Tap_
 <be>
 
-**Awards and Certifications**
+<h3>Awards and Certifications</h3>
 - Department of Energy SCGSR Fellow <span class="date">_June 2023_</span>
 - Intermediate SQl for Data Scientists - LinkedIn Learning  <span class="date">_January 2023_</span>
 - National Science Foundation Graduate Research Fellow <span class="date">_May 2018_</span>
 <br>
 
-**Technical Skills and Interests**
+<h3>Technical Skills and Interests</h3>
 - Python Skills: _Pandas, Scipy, Sklearn, JAX, tensorflow, Flax_
 - Additional Technical Skills: _Data visualization, Statistics, Jupyter Notebooks, SQL, GitHub_
 - Interests: _Cooking (degree in patisserie), DEI in STEM, Rock climbing, Traveling_
