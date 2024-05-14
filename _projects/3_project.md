@@ -1,81 +1,46 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: A foodie's map
+description: Average restaurant reviews of cities around the world
+img: assets/img/full.png
 importance: 3
-category: work
+category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I am absolutely a foodie. I spent a semester in culinary school before starting my PhD, and I love trying new restaurants when I travel. Recently, my partner and I have been researching food spots to try for an upcoming trip, and it made me wonder what cities have the best-reviewed food. Also, are people in some parts of the world a little more circumspect with their reviews? Is it posisble reviewers in Chicago (Where I live) are just more generous in their reviews than in New York? or London?
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I decided to take a look at the average restaurant reviews on Yelp for different cities. To do this, I scraped data from Yelp, took the average review across the top 100 most reviewed restaurants in each city, and added them to a map using ArcGIS.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/full.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Average restaurant reviews by city. The darker brown or orangeish shade represents higher ratings, and the paler yellows are lower ratings. 
 </div>
+
+I started by looking at the US a little more closely, and you can pretty quickly notice that the East Coast definitely seems to be a little harsher in their reviews than the West Coast. As a former New Yorker, I am absolutely obsessed with the food in NYC, and so this made me wonder if I need to spend more time in California or if New Yorkers are just that much harsher in their reviews.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/us.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    A closer look at restaurant reviews in the US.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+Zooming in a little on Europe, you might expect Paris, a city that is definitely known for its food, to have one of the highest average reviews in this region. Instead, I found that Barcelona actually seems to be home to some of the most well-reviewed restaurants in Europe.
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/erope.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    A closer look at Europe and the incredibly high-ranking restaurants in Barcelona. 
 </div>
 
+Maybe Parisians are just that much more reserved in their reviews? Or maybe we should all be booking a trip to Barcelona!
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<em> Skills: ArcGIS, BeautifulSoup </em>
