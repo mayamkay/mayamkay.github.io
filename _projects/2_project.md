@@ -3,7 +3,7 @@ layout: page
 title: Google Colab
 description: The Atacama Cosmology Telescope - Google Colab Notebooks for Data Release 6
 img: assets/img/act_dr6.png
-importance: 2
+importance: 3
 category: work
 ---
 
