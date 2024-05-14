@@ -7,6 +7,8 @@ importance: 3
 category: fun
 ---
 
+<em> Skills: ArcGIS, Python: BeautifulSoup, Pandas </em>
+
 I am absolutely a foodie. I spent a semester in culinary school before starting my PhD, and I love trying new restaurants when I travel. Recently, my partner and I have been researching food spots to try for an upcoming trip, and it made me wonder what cities have the best-reviewed food. Also, are people in some parts of the world a little more circumspect with their reviews? Is it posisble reviewers in Chicago (Where I live) are just more generous in their reviews than in New York? or London?
 
 I decided to take a look at the average restaurant reviews on Yelp for different cities. To do this, I scraped data from Yelp, took the average review across the top 100 most reviewed restaurants in each city, and added them to a map using ArcGIS.
@@ -43,4 +45,4 @@ Zooming in a little on Europe, you might expect Paris, a city that is definitely
 
 Maybe Parisians are just that much more reserved in their reviews? Or maybe we should all be booking a trip to Barcelona!
 
-<em> Skills: ArcGIS, BeautifulSoup </em>
+
