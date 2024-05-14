@@ -23,7 +23,7 @@ Astrophysicist with 5+ years of experience in quantitative analysis and research
 - Collaborator experienced in working with diverse groups to develop comprehensive analyses
 
 
-**Education**
+<h2> Education </h2>
 
 - University of Chicago, Chicago <span class="date">_expected June 2024_</span>
   - PhD, Astrophysics
