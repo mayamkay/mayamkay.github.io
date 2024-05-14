@@ -70,7 +70,7 @@ _Nerdnite Ann Arbor & Astro on Tap_
 - Intermediate SQl for Data Scientists - LinkedIn Learning  <span class="date">_January 2023_</span>
 - National Science Foundation Graduate Research Fellow <span class="date">_May 2018_</span>
 
-**TECHNICAL SKILLS AND INTERESTS**
+**Technical Skills and Interests**
 - Python Skills: _Pandas, Scipy, Sklearn, JAX, tensorflow, Flax_
 - Additional Technical Skills: _Data visualization, Statistics, Jupyter Notebooks, SQL, GitHub_
 - Interests: _Cooking (degree in pˆatisserie), DEI in STEM, Rock climbing, Traveling_
