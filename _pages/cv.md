@@ -42,13 +42,15 @@ Graduate Researcher <span class="date">_June 2023 - Current_</span>
 - Critically engage with the scientific literature to integrate observational results into the simulation pipeline
 - Present findings to multifunctional teams, demonstrating strong communication and collaboration abilities
 <br>
+
 **University of Chicago, Department of Astronomy & Astrophysics** <br>
 Graduate Researcher <span class="date">_September 2020 - Current_</span>
 - Use statistics and modeling techniques with pandas, astropy and scipy, to study faint signals from distant filaments of gas in 2D maps of the sky
 - Conduct a statistical analysis of 250,000 distant galaxies using a Markov Chain Monte Carlo parameter estimation code - Paper accepted to PRD
 - Collaborate with scientists from multiple institutions to develop analysis pipelines and scientific insights
 - Write scientific papers and present research findings to both technical and non-technical audiences
-<br>  
+<br>
+ 
 **University of Michigan, Department of Physics** <br>
 Graduate Researcher <span class="date">_September 2018 - September 2020_</span>
 - Prepared Python tutorials and a Docker container to enable users to work with remote sensing data from the Atacama Cosmology Telescope’s data releases - Paper accepted to ApJS and tutorials on GitHub
