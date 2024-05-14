@@ -68,5 +68,5 @@ _Nerdnite Ann Arbor & Astro on Tap_
 **Technical Skills and Interests**
 - Python Skills: _Pandas, Scipy, Sklearn, JAX, tensorflow, Flax_
 - Additional Technical Skills: _Data visualization, Statistics, Jupyter Notebooks, SQL, GitHub_
-- Interests: _Cooking (degree in pˆatisserie), DEI in STEM, Rock climbing, Traveling_
+- Interests: _Cooking (degree in patisserie), DEI in STEM, Rock climbing, Traveling_
 - Languages: _French (Conversational), Spanish (Beginner)_
