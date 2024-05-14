@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: Resume_2024%20(12).pdf
-description: Astrophysics PhD Student with a degree in patisserie and a love for hiking. 
+description:
 toc:
   sidebar: left
 ---
@@ -17,10 +17,10 @@ toc:
   }
 </style>
 
-Astrophysicist with 5+ years of experience in quantitative analysis and research</p>
-- Experienced data scientist passionate about leveraging these skills to help combat climate change</p>
-- Lead scientist on 4 projects involving statistical analysis and machine learning techniques</p>
-- Collaborator experienced in working with diverse groups to develop comprehensive analyses</p>
+Astrophysicist with 5+ years of experience in quantitative analysis and research
+- Experienced data scientist passionate about leveraging these skills to help combat climate change
+- Lead scientist on 4 projects involving statistical analysis and machine learning techniques
+- Collaborator experienced in working with diverse groups to develop comprehensive analyses
 
 
 **Education**
@@ -56,13 +56,13 @@ _Taught two data science summer schools_
 Science Communication Talks <span class="date">_October & November 2019_</span>
 _Nerdnite Ann Arbor & Astro on Tap_
 
-AWARDS AND CERTIFICATIONS
-Department of Energy SCGSR Fellow
-Intermediate SQl for Data Scientists - LinkedIn Learning National Science Foundation Graduate Research Fellow
-TECHNICAL SKILLS AND INTERESTS
+**Awards and Certifications**
+- Department of Energy SCGSR Fellow <span class="date">_June 2023_</span>
+- Intermediate SQl for Data Scientists - LinkedIn Learning  <span class="date">_January 2023_</span>
+- National Science Foundation Graduate Research Fellow <span class="date">_May 2018_</span>
 
-June 2023 January 2023 May 2018
-  Python Skills
-Additional Technical Skills Interests
-Pandas, Scipy, Sklearn, JAX, tensorflow, Flax
-Data visualization, Statistics, Jupyter Notebooks, SQL, GitHub Cooking (degree in pˆatisserie), DEI in STEM, Rock climbing, Traveling
+**TECHNICAL SKILLS AND INTERESTS**
+- Python Skills: _Pandas, Scipy, Sklearn, JAX, tensorflow, Flax_
+- Additional Technical Skills: _Data visualization, Statistics, Jupyter Notebooks, SQL, GitHub_
+- Interests: _Cooking (degree in pˆatisserie), DEI in STEM, Rock climbing, Traveling_
+- Languages: _French (Conversational), Spanish (Beginner)_
