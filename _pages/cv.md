@@ -36,20 +36,20 @@ Astrophysicist with 5+ years of experience in quantitative analysis and research
  
 <h3>Research and Analysis Experience</h3> <br>
 
-Argonne National Lab, Computational Physics and Cosmology Group <br>
+**Argonne National Lab, Computational Physics and Cosmology Group** <br>
 Graduate Researcher <span class="date">_June 2023 - Current_</span>
 - Develop large-scale simulations of the observable universe using JAX-based emulators in Python; resulting in 10,000X reduction in processing time and enabling fast predictions for 10 billion galaxies
 - Critically engage with the scientific literature to integrate observational results into the simulation pipeline
 - Present findings to multifunctional teams, demonstrating strong communication and collaboration abilities
 <br>
-University of Chicago, Department of Astronomy & Astrophysics <br>
+**University of Chicago, Department of Astronomy & Astrophysics** <br>
 Graduate Researcher <span class="date">_September 2020 - Current_</span>
 - Use statistics and modeling techniques with pandas, astropy and scipy, to study faint signals from distant filaments of gas in 2D maps of the sky
 - Conduct a statistical analysis of 250,000 distant galaxies using a Markov Chain Monte Carlo parameter estimation code - Paper accepted to PRD
 - Collaborate with scientists from multiple institutions to develop analysis pipelines and scientific insights
 - Write scientific papers and present research findings to both technical and non-technical audiences
 <br>  
-University of Michigan, Department of Physics <br>
+**University of Michigan, Department of Physics** <br>
 Graduate Researcher <span class="date">_September 2018 - September 2020_</span>
 - Prepared Python tutorials and a Docker container to enable users to work with remote sensing data from the Atacama Cosmology Telescope’s data releases - Paper accepted to ApJS and tutorials on GitHub
 - Used Pixell, numpy and astropy to analyze maps of the Cosmic Microwave Background
@@ -65,13 +65,13 @@ _Nerdnite Ann Arbor & Astro on Tap_
 <be>
 
 <h3>Awards and Certifications</h3>
-- Department of Energy SCGSR Fellow <span class="date">_June 2023_</span>
-- Intermediate SQl for Data Scientists - LinkedIn Learning  <span class="date">_January 2023_</span>
-- National Science Foundation Graduate Research Fellow <span class="date">_May 2018_</span>
+- Department of Energy SCGSR Fellow<span class="date">_June 2023_</span>
+- Intermediate SQl for Data Scientists - LinkedIn Learning<span class="date">_January 2023_</span>
+- National Science Foundation Graduate Research Fellow<span class="date">_May 2018_</span>
 <br>
 
 <h3>Technical Skills and Interests</h3>
-- Python Skills: _Pandas, Scipy, Sklearn, JAX, tensorflow, Flax_
-- Additional Technical Skills: _Data visualization, Statistics, Jupyter Notebooks, SQL, GitHub_
-- Interests: _Cooking (degree in patisserie), DEI in STEM, Rock climbing, Traveling_
-- Languages: _French (Conversational), Spanish (Beginner)_
+- **Python Skills**: <em>Pandas, Scipy, Sklearn, JAX, tensorflow, Flax</em>
+- **Additional** Technical Skills: <em>Data visualization, Statistics, Jupyter Notebooks, SQL, GitHub</em>
+- **Interests**: <em>Cooking (degree in patisserie), DEI in STEM, Rock climbing, Traveling</em>
+- **Languages**: <em></em>French (Conversational), Spanish (Beginner)</em>
