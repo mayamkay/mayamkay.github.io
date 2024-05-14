@@ -3,7 +3,7 @@ layout: page
 title: A foodie's map
 description: Average restaurant reviews of cities around the world
 img: assets/img/full.png
-importance: 3
+importance: 2
 category: fun
 ---
 
