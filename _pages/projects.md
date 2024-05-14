@@ -5,8 +5,8 @@ permalink: /projects/
 description: Take a look at some of my projects! Much of my code is, unfortunately, private as it is work I did as a member of a scientific collaboration; however, this collection should give you a sense of my skills and interests.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: 
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
