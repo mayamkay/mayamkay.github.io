@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data access 
+title: Data Access 
 description: The Atacama Cosmology Telescope - Data Access for the Data Releases 4 and 5 
 img: assets/img/act_notebooks.png
 importance: 1
