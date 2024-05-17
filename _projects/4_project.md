@@ -20,7 +20,7 @@ To take a look at this a bit more closely I pulled data on the number of grocery
         </div>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chicago_income.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/income.png" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Chicago's median household income by neighborhood.
         </div>
