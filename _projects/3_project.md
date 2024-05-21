@@ -7,7 +7,7 @@ importance: 2
 category: fun
 ---
 
-<em> Skills: ArcGIS, Python: BeautifulSoup, Pandas </em>
+<em> Skills: ArcGIS, Python: BeautifulSoup, Pandas </em> <br>
 <em> Code available <a href="https://github.com/mayamkay/portfolio/tree/main">here</a>. </em>
 
 I am absolutely a foodie. I spent a semester in culinary school before starting my PhD, and I love trying new restaurants when I travel. Recently, my partner and I have been researching food spots to try for an upcoming trip, and it made me wonder what cities have the best-reviewed food. Also, are people in some parts of the world a little more circumspect with their reviews? Is it possible that reviewers in Chicago (Where I live) are more generous in their reviews than in New York? or London?
