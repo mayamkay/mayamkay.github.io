@@ -7,7 +7,8 @@ importance: 2
 category: fun
 ---
 
-<em> Skills: ArcGIS, Python: BeautifulSoup, Pandas </em>
+<em> Skills: ArcGIS, Python: BeautifulSoup, Pandas </em> <br>
+<em> Code available <a href="https://github.com/mayamkay/portfolio/tree/main">here</a>. </em>
 
 I live within a 10-minute walk of 4 different grocery stores. But that's not the case for many Chicagoans. These regions are often referred to as food deserts, and the lack of access to grocery stores and healthy ingredients can have serious ramifications for the communities. 
 
