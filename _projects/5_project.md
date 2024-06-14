@@ -7,7 +7,7 @@ importance: 2
 category: fun
 ---
 
-<em> Skills: Python: matplotlib, numby, Pandas </em> <br>
+<em> Skills: Python: matplotlib, numpy, Pandas </em> <br>
 <em> Jupyter notebooks available <a href="https://github.com/mayamkay/portfolio/tree/main/ancona_pollution">here</a>. </em>
 
 I recently took a look at the Air Quality Monitoring in European Cities data set ([available here](https://www.kaggle.com/datasets/yekenot/air-quality-monitoring-in-european-cities/data)) from Kaggle. The data set presents time domain measurements of various properties related to air quality in three different European cities. I decided to take a look at the air quality over time in Ancona Italy. In particular, I'm interested in the parameter that describes the atmospheric aerosols concentration with a maximum particle diameter of 10 micrometers as these small particles can cause health risks when inhaled. Measuring the concentration of the particles is often used as a proxy to talk about how safe the air is.
