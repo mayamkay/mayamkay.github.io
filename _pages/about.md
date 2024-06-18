@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Student at the University of Chicagos</a>
+subtitle: <a href='#'>Astrophysicist with 5+ years of experience in quantitative data analysis</a>
 profile:
   align: right
   image: prof_pic.jpg
