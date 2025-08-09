@@ -17,15 +17,15 @@ toc:
   }
 </style>
 
-Astrophysicist with 5+ years of experience in quantitative analysis and research
-- Experienced data scientist passionate about leveraging these skills to help combat climate change
-- Lead scientist on 4 projects involving statistical analysis and machine learning techniques
-- Collaborator experienced in working with diverse groups to develop comprehensive analyses
+Data scientist with 7+ years of experience — dbt, Python, SQL & R
+- Excellent data scientist skilled at developing pipelines and delivering reliable results.
+- Proven track record of working with remote teams to deliver high-quality, well-structured code.
+- PhD in Astrophysics, comfortable working autonomosly and confident building at scale.
 
 
 <h3> Education </h3>
 
-- University of Chicago, Chicago <span class="date">_expected June 2024_</span>
+- University of Chicago, Chicago <span class="date">_June 2024_</span>
   - PhD, Astrophysics
 - University of Michigan, Ann Arbor <span class="date">_August 2020_</span>
   - MSc, Physics
@@ -34,7 +34,16 @@ Astrophysicist with 5+ years of experience in quantitative analysis and research
 
  <br>
  
-<h3>Research and Analysis Experience</h3> <br>
+<h3>DATA SCIENCE AND RESEARCH EXPERIENCE</h3> <br>
+
+**Civis Analytics** <br>
+Applied Data Scientist <span class="date">_August 2024 - Current_</span>
+- Collaborated with cross-functional teams to scope, prioritize, implement, and maintain ETL pipelines for
+public sector clients.
+- Led development of complex data pipelines using Python, R, dbt, and SQL, ensuring high-quality data
+processing and deliverables.
+- Created client-facing reports to deliver dynamic insights using HTML reports, Tableau and Streamlit
+dashboards.
 
 **Argonne National Lab, Computational Physics and Cosmology Group** <br>
 Graduate Researcher <span class="date">_June 2023 - Current_</span>
@@ -74,6 +83,6 @@ _Nerdnite Ann Arbor & Astro on Tap_
 
 <h3>Technical Skills and Interests</h3>
 - **Python Skills**: <em>Pandas, Scipy, Sklearn, JAX, tensorflow, Flax</em>
-- **Additional** Technical Skills: <em>Data visualization, Statistics, Jupyter Notebooks, SQL, GitHub</em>
+- **Additional** Technical Skills: <em>dbt, Tableau, R, Data visualization, Statistics, Jupyter Notebooks, SQL, GitHub</em>
 - **Interests**: <em>Cooking (degree in patisserie), DEI in STEM, Rock climbing, Traveling</em>
 - **Languages**: <em></em>French (Conversational), Spanish (Beginner)</em>
