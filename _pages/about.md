@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Astrophysicist with 5+ years of experience in quantitative data analysis</a>
+subtitle: <a href='#'>Data Scientist with 7+ years of experience and a PhD in Astrophysics</a>
 profile:
   align: right
   image: prof_pic.jpg
